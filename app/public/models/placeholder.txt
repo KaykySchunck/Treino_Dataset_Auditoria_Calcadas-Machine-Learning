@@ -1,0 +1,2 @@
+Coloque aqui o modelo exportado do Colab com o nome calcadas_320.onnx
+(YOLOv8n, entrada [1,3,320,320], 5 classes).
